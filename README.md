@@ -58,6 +58,6 @@ I've been programming for the past 5 years. I mostly write everything I can in j
 </a>
 
 ### Support Me
-<a href="https://www.buymeacoffee.com/harishandzic">
+<a href="https://www.buymeacoffee.com/handzicharis">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
