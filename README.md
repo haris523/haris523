@@ -4,7 +4,7 @@ Hi 👋 My name is Haris Handzic
 Full stack/mobile developer
 ---------------------------
 
-I've been programming for the past 5 years. I mostly write everything I can in js, but I can also write c# and python. I hold a bachelors degree in information technologies that I achieved at University of Indormation Technologies in Mostar, Bosnia and Herzegovina. Two years ago 2 of my university colleagues and I created Visiot LLC, which currently counts 13 employees and is based in Visoko, Bosnia and Herzegovina. I'm the cto of the company.
+I've been programming for the past 5 years. I mostly write everything I can in js, but I can also write c# and python. My main framework of choice is React-Native. I hold a bachelors degree in information technologies that I achieved at University of Information Technologies in Mostar, Bosnia and Herzegovina. Two years ago 2 of my university colleagues and I created Visiot LLC, which currently counts 13 employees and is based in Visoko, Bosnia and Herzegovina. I'm the CTO of the company.
 
 *   🌍  I'm based in Bosnia and Herzegovina
 *   ✉️  You can contact me at [handzicharis62@yahoo.com](mailto:handzicharis62@yahoo.com)
