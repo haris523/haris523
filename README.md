@@ -8,8 +8,7 @@ I've been programming for the past 5 years. I mostly write everything I can in j
 
 *   🌍  I'm based in Bosnia and Herzegovina
 *   ✉️  You can contact me at [handzicharis62@yahoo.com](mailto:handzicharis62@yahoo.com)
-*   🧠  I'm learning Flutter
-*   🤝  I'm open to collaborating on Golang / Rust projects, to learn them easier
+*   🧠  I'm a react native developer
 *   ⚡  I'm an anime fan
 ### Skills
 <p align="left">
