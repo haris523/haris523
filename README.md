@@ -4,12 +4,11 @@ Hi 👋 My name is Haris Handzic
 Full stack/mobile developer
 ---------------------------
 
-I've been programming for the past 5 years. I mostly write everything I can in js, but I can also write c# and python. My main framework of choice is React-Native. I hold a bachelors degree in information technologies that I achieved at University of Information Technologies in Mostar, Bosnia and Herzegovina. Two years ago 2 of my university colleagues and I created Visiot LLC, which currently counts 13 employees and is based in Visoko, Bosnia and Herzegovina. I'm the CTO of the company.
+I've dedicated the last five years to programming, primarily utilizing JavaScript for most of my projects. Additionally, I'm proficient in C# and Python. My preferred framework is React-Native. I earned a bachelor's degree in Information Technologies from the University of Information Technologies in Mostar, Bosnia and Herzegovina. Two years ago, my university colleagues and I co-founded Visiot LLC, a company headquartered in Visoko, Bosnia and Herzegovina, which has now grown to a team of 13 employees. Currently serving as the Chief Technology Officer (CTO), I play a pivotal role in the company's technical leadership.
 
 *   🌍  I'm based in Bosnia and Herzegovina
-*   ✉️  You can contact me at [handzicharis62@yahoo.com](mailto:handzicharis62@yahoo.com)
-*   🧠  I'm a react native developer
 *   ⚡  I'm an anime fan
+*   
 ### Skills
 <p align="left">
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -42,12 +41,6 @@ I've been programming for the past 5 years. I mostly write everything I can in j
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-### Socials
-                  
-                  
-<p align="left">
-
-<a href="https://www.github.com/haris523" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harishandzic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <a href="https://github.com/haris523">
