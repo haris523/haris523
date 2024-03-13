@@ -1,8 +1,14 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<!--###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>-->
+
 ###
 
-<p align="left">My name is Haris Handzic. I'm a fullstack developer with over 7 years of experience from Bosnia and Herzegovina. I have a bachelors degree from the Faculty of Information Technologies in Mostar. My main start includes Next js, React js, Node js, React-Native, PostgreSQL, Electron, Typescript and Firebase. This stack allows me to create type safe software for mobile, desktop and web.</p>
+<p align="left">My name is Haris Handzic. I'm a fullstack developer with over 7 years of experience from Bosnia and Herzegovina. I have a bachelors degree from the Faculty of Information Technologies in Mostar. My main stack includes Next js, React js, Node js, React-Native, PostgreSQL, Electron, Typescript and Firebase. This stack allows me to create type safe software for mobile, desktop and web.</p>
 
 ###
 
@@ -10,7 +16,7 @@
 
 ###
 
-<p align="left">✨ I have been programming for over 7 years<br>📚 I'm currently learning Devops tools<br>🎯 I want to impact the world through my software (in a positive way)<br>🎲 I am currently the CEO o my agency Ode of Code</p>
+<p align="left">✨ I have been programming for over 7 years<br>📚 I'm currently learning Devops tools<br>🎯 I want to impact the world through my software (in a positive way)<br>🎲 I am currently the CEO of my agency Ode of Code (my second company)<br>🎲 I was the CTO and CO-Founder of Visiot from the end of 2020 to the beginning of 2024</p>
 
 ###
 
