@@ -1,18 +1,14 @@
 <h1 align="center">Hey 👋 I'm Haris Handzic</h1>
 
 <p align="center">
-  <strong>Fullstack Developer | Tech Entrepreneur | Open Source Enthusiast</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harishandzic&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <strong>Fullstack Developer | Tech Entrepreneur</strong>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a passionate fullstack developer with **7+ years of experience** building scalable applications for web, mobile, and desktop platforms. Based in Bosnia and Herzegovina, I hold a Bachelor's degree from the Faculty of Information Technologies in Mostar.
+I'm a passionate fullstack developer with **8+ years of experience** building scalable applications for web, mobile, and desktop platforms. Based in Bosnia and Herzegovina, I hold a Bachelor's degree from the Faculty of Information Technologies in Mostar.
 
 - 🚀 **CEO & Founder** of [Ode of Code](https://odeofcode.com) - my second venture in the tech industry
 - 💼 Former **CTO & Co-Founder** of Visiot (2020-2024)
@@ -124,23 +120,10 @@ I'm a passionate fullstack developer with **7+ years of experience** building sc
   <a href="https://linkedin.com/in/harishandzic" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/harishandzic" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="mailto:haris@odeofcode.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://odeofcode.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>💡 "Great software is built by great teams solving real problems."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
