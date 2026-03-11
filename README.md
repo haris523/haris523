@@ -91,19 +91,6 @@ I'm a passionate fullstack developer with **8+ years of experience** building sc
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishandzic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishandzic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishandzic&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🏆 Achievements
 
 - 💼 Successfully co-founded and scaled Visiot as CTO
@@ -120,10 +107,10 @@ I'm a passionate fullstack developer with **8+ years of experience** building sc
   <a href="https://linkedin.com/in/harishandzic" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:haris@odeofcode.com">
+  <a href="mailto:haris@odeofcode.net">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://odeofcode.com" target="_blank">
+  <a href="https://odeofcode.net" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
